@@ -1,7 +1,7 @@
 ﻿//Lambda
 var lambdaReturn = () => "Hello!";
 
-Console.WriteLine(lambda());
+Console.WriteLine(lambdaReturn());
 
 var lambdaDo = () =>
 {
